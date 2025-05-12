@@ -1,0 +1,3 @@
+- Per fare l'esame servono l'80% delle lezioni
+- Tutti gli assignment sono necessary per l'esame
+- l'esame è orale dal 15 Maggio al 15 giugno, sono open questions + domande sull'assignment.Per la preparazione teorica, c'è un knowledge test su git.
